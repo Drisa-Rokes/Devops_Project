@@ -1,0 +1,168 @@
+#top{
+  background-color: maroon;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  text-align: center;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+/*.active {
+  background-color: maroon;
+}*/
+#describe{
+  background-color: maroon;
+  height:13.75em;
+  width: 31.25em;
+  color: white;
+  text-align: center;
+  float: left;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+#moreabout{
+  margin-left: 60%;
+  background-color: red;
+  border-color: red;
+}
+
+
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        padding: 40px;  
+        background: maroon;  
+        border-radius: 15px ;
+        align-content: center;  
+          
+}  
+
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+#a_forgot{  
+    float: left;  
+    background-color: white;
+
+    
+} 
+#a_pass{
+    float: right;
+    background-color: white;
+}
+
+#para{
+  width: 50%;
+  height: 40%;
+  float:left;
+  margin-left:25%; 
+}
+
+.footer{
+  background-color: maroon;
+  margin-top: 22%;
+  bottom: 0;
+
+}
+
+.footin{
+  background-color: maroon;
+  color: white;
+  margin:1% auto 1% 10%;
+  border-right-color: black;
+  border-left-color: black;
+  border-width: 5px;
+  border-top:none;
+  border-bottom: none; 
+
+  
+}
+
+#img1{
+  width: 24.3%;
+  margin-top: 5%;
+  border:2px maroon solid;
+}
+
+#recentdonar{
+  height:16.25em;
+  width:13.75em;
+  float:right;
+  margin-top: 2%;
+  margin-right: 2%;
+
+
+}
+#modi{
+  width: 45%;
+  float: left;
+  margin-bottom: 2%;
+
+}
+#modidis{
+  float: right;
+}
+
+.vanue{
+  float:left;
+  margin-left: 15%;
+  color: maroon;
+}
+
